@@ -2823,7 +2823,7 @@ section#contact .contact-wrapper .sending {
   }
 }
 
-/* ---------------- Media queries */
+/* ---------------- Media queries ---------------- */
 
 @media (min-width: 1000px) {
   #intro {
@@ -2853,13 +2853,13 @@ section#contact .contact-wrapper .sending {
     align-items: center;
   }
 
-  .section-wrapper {
+  #masterplan .section-wrapper {
     max-width: 1400px;
     margin: 0 auto;
     position: relative;
   }
 
-  .wide-wrapper {
+  #masterplan .wide-wrapper {
     display: flex;
     align-items: center;
   }
