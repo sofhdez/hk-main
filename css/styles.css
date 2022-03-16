@@ -2895,4 +2895,13 @@ section#contact .contact-wrapper .sending {
     display: flex;
     align-items: center;
   }
+
+  #amenities .amenities-wrapper {
+    width: 28%;
+    z-index: 0;
+  }
+
+  #amenities .amenitieslocations {
+    z-index: 1;
+}
 }
